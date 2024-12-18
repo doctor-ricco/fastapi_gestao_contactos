@@ -1,0 +1,6 @@
+[
+    {"id": 1, "name": "Alice", "email_addr": "alice@mail.com", "available": true},
+    {"id": 2, "name": "Bob", "email_addr": "bob@mail.com", "available": false},
+    {"id": 3, "name": "Charlie", "email_addr": "charlie@mail.com", "available": true}
+    {"id": 3, "name": "Stieve Wonder", "email_addr": "mrwonder@mail.com", "available": true}
+]
